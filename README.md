@@ -10,6 +10,8 @@ Generator Block-based WP Theme is based on the [Gutenberg Starter Theme](https:/
 4. Run `yo block-based-wp-theme`
 5. Follow the instructions in the prompt
 
+![](https://user-images.githubusercontent.com/3323310/77451047-b99b5980-6e26-11ea-9c15-58514dd376ba.png)
+
 ## License
 
 **Generator Block-based WP Theme** is free software, and is released under the terms of the [GPLv3 or later](https://www.gnu.org/licenses/gpl-3.0.en.html). 
