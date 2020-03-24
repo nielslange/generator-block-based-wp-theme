@@ -8,7 +8,7 @@ Version: <%= themeInfo.themeVersion %>
 License: GNU General Public License v2 or later
 License URI: LICENSE
 Text Domain: <%= themeInfo.themeTextDomain %>
-Tags: <%= themeInfo.themeURL %>
+Tags: <%= themeInfo.themeSubjectTags %>
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.

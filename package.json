@@ -1,6 +1,6 @@
 {
   "name": "generator-block-based-wp-theme",
-  "version": "1.18.0",
+  "version": "1.22.0",
   "description": "Generate block-based WordPress theme.",
   "main": "app/index.js",
   "scripts": {
