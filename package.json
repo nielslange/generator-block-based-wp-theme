@@ -1,0 +1,39 @@
+{
+  "name": "generator-block-based-wp-theme",
+  "version": "1.17.0",
+  "description": "Generate block-based WordPress theme.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nielslange/generate-wp-theme.git"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "Yeoman",
+    "yeoman-generator",
+    "WordPress",
+    "WordPress",
+    "theme"
+  ],
+  "author": "Niels Lange <info@nielslange.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nielslange/generate-wp-theme/issues"
+  },
+  "homepage": "https://github.com/nielslange/generate-wp-theme#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.23.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "yeoman-assert": "^3.1.1",
+    "yeoman-test": "^2.3.0"
+  }
+}
